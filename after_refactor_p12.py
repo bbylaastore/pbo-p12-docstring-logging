@@ -1,3 +1,5 @@
+# Logging INFO dan WARNING untuk validasi
+
 # Update docstring sesuai modul 12
 
 """Sistem Validasi Registrasi Mahasiswa (SOLID + Dependency Injection).
