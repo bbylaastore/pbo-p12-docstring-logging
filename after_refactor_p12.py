@@ -1,3 +1,5 @@
+# Update docstring sesuai modul 12
+
 """Sistem Validasi Registrasi Mahasiswa (SOLID + Dependency Injection).
 
 Modul Praktikum Pertemuan 12:
